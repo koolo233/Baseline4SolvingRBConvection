@@ -15,8 +15,8 @@ pip install -r requirements.txt
 
 克隆本Baseline:
 ```commandline
-git clone git@github.com:koolo233/Baseline4SolvingSchrodingerEquation.git
-cd Baseline4SolvingSchrodingerEquation
+git clone git@github.com:koolo233/Baseline4SolvingRBConvection.git
+cd Baseline4SolvingRBConvection
 ```
 
 ## 本Baseline简介
@@ -68,7 +68,7 @@ cd Baseline4SolvingSchrodingerEquation
 
 ```commandline
 # 切换到项目下
-cd Baseline4SolvingSchrodingerEquation
+cd Baseline4SolvingRBConvection
 # 训练并测试
 python main.py
 # 在服务器上如果需要指定显卡（示例为指定0卡，如果需要使用其他卡设置为其他数值），请使用
